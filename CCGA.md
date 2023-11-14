@@ -14,5 +14,6 @@ The study is divided into three sub-studies: [INFOGRAPHIC](https://grail.com/wp-
     1. **Mutations**
     2. **Chromosome changes**
     3. **DNA methylation changes**. This outperformed the other two approaches.
-  - **Sub-study 2, TRAINING/INITIAL VALIDATION** (Completed) ([DOI](https://doi.org/10.1016/j.annonc.2020.02.011)): They selected methylation as their prefered approach. In particular, they focused on **TARGETED METHYLATION**. Even though they use WGBS data, they focus on a set of informative regions/CpG sites.
+  - **Sub-study 2, TRAINING/INITIAL VALIDATION** (Completed) ([DOI](https://doi.org/10.1016/j.annonc.2020.02.011)): They selected methylation as their prefered approach. In particular, they focused on **TARGETED METHYLATION**. Even though they use WGBS data, they focus on a set of informative regions/CpG sites. (I'm not 100% sure to get this, but as I understand, they analize the samples using WGBS data to get the "important regions", and then they sequence the samples again, not using WGBS but a targeted aproach, so they get a higher coverage of those regions at a cheaper cost [see paper, subsection "_Targeted methylation panel design, sample processing,
+and sequencing_"]).
   - **Sub-study 3, VALIDATION** (Ongoing/Completed?) ([DOI](https://doi.org/10.1016/j.annonc.2021.05.806)): ...
